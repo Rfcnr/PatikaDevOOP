@@ -14,5 +14,5 @@ Note: It is not necessary to specify the attributes and behaviors of the classes
 
 ### Class Diagram
 
-
+![classDiagram](https://github.com/Rfcnr/PatikaDevOOP/blob/main/1)%20UniversityManagementSystem/Images/classDiagramOfUniversity.png)
 
