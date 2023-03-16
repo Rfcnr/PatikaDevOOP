@@ -5,5 +5,5 @@ www.patika.dev
 
 ## Homeworks
 
-### [1) Class Diagram Of University Management System](https://github.com/Rfcnr/PatikaDevOOP)
+### [1) Class Diagram Of University Management System](https://github.com/Rfcnr/PatikaDevOOP/tree/main/1-UniversityManagementSystem)
 
