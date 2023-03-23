@@ -30,5 +30,5 @@ A random number generator is used by the simulator to generate passengers and de
 
 ### Class Diagram
 
-![classDiagram](https://github.com/Rfcnr/PatikaDevOOP/blob/main/OnlineMovieManagementSystem/classDiagramOfElevatorSimulation.png)
+![classDiagram](https://github.com/Rfcnr/PatikaDevOOP/blob/main/ElevatorSimulation/classDiagramOfElevatorSimulation.png)
 
